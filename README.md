@@ -8,7 +8,7 @@
 # Proyecto MIDI Simulado en HTML | CSS | JS
 
 Este proyecto es una sencilla aplicación web que simula un dispositivo MIDI utilizando botones. Al hacer clic en cada botón, se reproducen diferentes sonidos.
-Es un instrumento musical con una interfaz digital, en donde con cada botón reproducimos el sonido de un instrumento. Desarrollado en  JavaScript,  utilizando recursos actuales del lenguaje, como constantes, variables, querySelector, template string, eventos de teclado y mouse, entre otros.
+Es un instrumento musical con una interfaz digital, donde con cada botón reproduce el sonido de un instrumento. Desarrollado en  JavaScript,  utilizando recursos actuales del lenguaje, como constantes, variables, querySelector, template string, eventos de teclado y mouse.
 
 ## Características
 
