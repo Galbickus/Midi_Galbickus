@@ -20,5 +20,11 @@ Es un instrumento musical con una interfaz digital, donde con cada botón reprod
 
 - Navegador web moderno que soporte HTML5 y JavaScript.
 
+## Demo
+
+Puedes ver un [demo](https://galbickus.github.io/Midi_Galbickus/) de la aplicación aquí.
+
+
+
 
 
