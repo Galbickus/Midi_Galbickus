@@ -24,6 +24,12 @@ Es un instrumento musical con una interfaz digital, donde con cada botón reprod
 
 Puedes ver un [demo](https://galbickus.github.io/Midi_Galbickus/) de la aplicación aquí.
 
+## Agradecimiento 
+
+- **Alura Latam**: Este proyecto utiliza lineamientos generales que forman parte de los [challenges](https://www.aluracursos.com/challenges) de Alura Latam.
+  
+
+
 
 
 
